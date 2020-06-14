@@ -1,3 +1,6 @@
+#Creates a special matrix object that is being stored in cache, together with its calculated inverse.
+
+
 makeCacheMatrix <- function(x = numeric(), y = numeric()) {
         
         s <- NULL
